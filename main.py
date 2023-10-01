@@ -1,5 +1,5 @@
 #napiste program, ktory prevedie cislo z dvojkovej do desiatkovej sustavy
-x=int(input("Zadaj cislo: "))
+x=int(input("Zadaj číslo v dvojkovej sústave: "))
 vysledok=0
 moc=1
 while x !=0:
